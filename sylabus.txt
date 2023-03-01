@@ -1,0 +1,11 @@
+list of learning syllabus : 
+1. Communication Skills
+2. HTML, CSS
+3. UI UX
+4. Version Control System: Git dan Github
+5. Javascript
+6. PHP Native
+7. MySQL
+8. PHP Framework: Laravel
+9. API
+10. Tugas Akhir
